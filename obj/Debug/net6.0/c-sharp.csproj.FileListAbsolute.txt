@@ -1,0 +1,15 @@
+/Users/aneer/c-sharp/bin/Debug/net6.0/c-sharp
+/Users/aneer/c-sharp/bin/Debug/net6.0/c-sharp.deps.json
+/Users/aneer/c-sharp/bin/Debug/net6.0/c-sharp.runtimeconfig.json
+/Users/aneer/c-sharp/bin/Debug/net6.0/c-sharp.dll
+/Users/aneer/c-sharp/bin/Debug/net6.0/c-sharp.pdb
+/Users/aneer/c-sharp/obj/Debug/net6.0/c-sharp.csproj.AssemblyReference.cache
+/Users/aneer/c-sharp/obj/Debug/net6.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aneer/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfoInputs.cache
+/Users/aneer/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfo.cs
+/Users/aneer/c-sharp/obj/Debug/net6.0/c-sharp.csproj.CoreCompileInputs.cache
+/Users/aneer/c-sharp/obj/Debug/net6.0/c-sharp.dll
+/Users/aneer/c-sharp/obj/Debug/net6.0/refint/c-sharp.dll
+/Users/aneer/c-sharp/obj/Debug/net6.0/c-sharp.pdb
+/Users/aneer/c-sharp/obj/Debug/net6.0/c-sharp.genruntimeconfig.cache
+/Users/aneer/c-sharp/obj/Debug/net6.0/ref/c-sharp.dll
